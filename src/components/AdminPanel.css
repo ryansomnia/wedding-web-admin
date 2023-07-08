@@ -1,0 +1,16 @@
+.admin-panel {
+  display: flex;
+  height: 100vh;
+}
+.admin-panel-text {
+  font-weight: bold;
+}
+
+.content {
+  flex-grow: 1;
+  padding: 20px;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  
+}
